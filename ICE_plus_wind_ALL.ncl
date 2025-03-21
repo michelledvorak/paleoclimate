@@ -1,15 +1,6 @@
 ;*************************************************
 ; ice_2.ncl
 ;
-; Concepts illustrated:
-;   - Plotting ice data
-;   - Adding a missing value (_FillValue)
-;   - Drawing curly vectors over a polar stereographic map
-;   - Coloring vectors based on magnitude
-;   - Changing the length of the vectors
-;   - Changing the magnitude of the vectors
-;   - Thinning vectors using a minimum distance resource
-;
 ;************************************************
 ;
 ; These files are loaded by default in NCL V6.2.0 and newer
